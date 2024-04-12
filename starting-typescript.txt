@@ -1,0 +1,4 @@
+Typescript
+
+To install  -  npm install -g typescript
+To run all typescript file in current folder : tsc
